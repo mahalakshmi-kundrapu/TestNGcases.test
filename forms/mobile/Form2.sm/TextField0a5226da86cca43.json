@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Placeholder",
+    "_skin_": "s3ff3d623e3c4de18355f14085839639",
+    "_text_": "Welcome",
+    "_top_": {
+        "type": "string",
+        "value": "325dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "215dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sd6e50b1a2994fefbe3be98732a0912a",
+    "id": "TextField0a5226da86cca43",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d37d8172f7334377997fd8360f374021",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "Form2",
+    "pf": "Form2",
+    "placeholderskin": "s3d6f1063f77428f8ae4ca118c11d90c",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

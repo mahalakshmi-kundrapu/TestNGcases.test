@@ -1,0 +1,51 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__fd6e9c61cb1b472b97814a3c8d62b79c",
+                    "actionSequenceId": "AS_Button_aab161c3a354458fbfe9a628c22309b2",
+                    "beautifiedPath": "Form1 > Button0e22e433f8a4e47 > onClick",
+                    "evt": "ide_onClick",
+                    "from": "df71ac8b8b644c46b2c5f39a9808a5ab",
+                    "isPSP": false,
+                    "points": [
+                        177.6,
+                        188.445263671875,
+                        187.6,
+                        188.445263671875,
+                        187.6,
+                        268.44526367187495,
+                        178,
+                        268.44526367187495,
+                        178,
+                        348.44526367187495,
+                        188,
+                        348.44526367187495
+                    ],
+                    "to": "c28e463bd0d6496d8bb3b9d9df347f10",
+                    "widgetKUID": "jd3455d2494d4cb083fe43302cea065c"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "df71ac8b8b644c46b2c5f39a9808a5ab",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "df71ac8b8b644c46b2c5f39a9808a5ab",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/TestNGcases/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "c28e463bd0d6496d8bb3b9d9df347f10",
+                    "formName": "Form2",
+                    "isStartupForm": false,
+                    "key": "c28e463bd0d6496d8bb3b9d9df347f10",
+                    "loc": "188 184.845263671875",
+                    "thumbnailURL": "/assets/TestNGcases/forms/mobile/Form2.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}
