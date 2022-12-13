@@ -1,2 +1,0 @@
-# TestNGcases.test
-TestNGcases.test

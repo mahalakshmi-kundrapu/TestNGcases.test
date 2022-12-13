@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc79930a9a954464888028dcc0a4b1b7",
+    "_src_": "voltmx_48.png",
+    "_top_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Image0b19eee13d24b46",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d659a7a89f64406984983fa8c9c3e86b",
+    "name": "kony.ui.Image2",
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
